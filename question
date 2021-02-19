@@ -1,0 +1,13 @@
+BUS FAIR COUNTER
+
+1.it contains list of stops along with kilometers
+
+2.ask user to enter starting position
+
+3.ask user to enter ending position
+
+4.after entering starting and ending positions--calculate total kilometers between two positions [i.e kms in positive value only]
+
+5.total_fair=kms*current charge amount for km
+
+6.current charge amount for km should not be fixed [create a admin point to modify current charge amount with entering a special key i.e:key name like:mod] 
